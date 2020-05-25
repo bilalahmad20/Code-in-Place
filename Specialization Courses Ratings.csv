@@ -1,0 +1,358 @@
+studentID,course,rating
+1,International Investment Analysis,4
+1,International Finance M&A and Investment Banking,2
+1,Financial Markets and Institutions,2
+1,International Marketing Management,4
+1,Consumer Behavior,5
+1,Brand Management,5
+1,Marketing Research Methods,5
+1,Chinese Business Environment,3
+1,Chinese Culture & Business Etiquette,1
+1,China Business Law,1
+1,Doing Business in China,2
+1,International Contracts and Payments,1
+1,Strategic Management,5
+1,International Finance,3
+1,International Business,4
+1,Entrepreneurship,5
+1,International Business Negotiation,5
+2,International Investment Analysis,3
+2,International Finance M&A and Investment Banking,3
+2,Financial Markets and Institutions,2
+2,International Marketing Management,2
+2,Consumer Behavior,2
+2,Brand Management,2
+2,Marketing Research Methods,2
+2,Chinese Business Environment,1
+2,Chinese Culture & Business Etiquette,1
+2,China Business Law,1
+2,Doing Business in China,1
+2,International Contracts and Payments,3
+2,Strategic Management,1
+2,International Finance,2
+2,International Business,1
+2,Entrepreneurship,1
+2,International Business Negotiation,1
+3,International Investment Analysis,5
+3,International Finance M&A and Investment Banking,5
+3,Financial Markets and Institutions,5
+3,International Marketing Management,5
+3,Consumer Behavior,5
+3,Brand Management,5
+3,Marketing Research Methods,5
+3,Chinese Business Environment,5
+3,Chinese Culture & Business Etiquette,5
+3,China Business Law,5
+3,Doing Business in China,5
+3,International Contracts and Payments,5
+3,Strategic Management,5
+3,International Finance,5
+3,International Business,5
+3,Entrepreneurship,5
+3,International Business Negotiation,5
+4,International Investment Analysis,3
+4,International Finance M&A and Investment Banking,3
+4,Financial Markets and Institutions,2
+4,International Marketing Management,5
+4,Consumer Behavior,5
+4,Brand Management,5
+4,Marketing Research Methods,5
+4,Chinese Business Environment,3
+4,Chinese Culture & Business Etiquette,1
+4,China Business Law,1
+4,Doing Business in China,4
+4,International Contracts and Payments,2
+4,Strategic Management,5
+4,International Finance,2
+4,International Business,5
+4,Entrepreneurship,5
+4,International Business Negotiation,5
+5,International Investment Analysis,1
+5,International Finance M&A and Investment Banking,2
+5,Financial Markets and Institutions,2
+5,International Marketing Management,3
+5,Consumer Behavior,3
+5,Brand Management,5
+5,Marketing Research Methods,4
+5,Chinese Business Environment,5
+5,Chinese Culture & Business Etiquette,5
+5,China Business Law,5
+5,Doing Business in China,5
+5,International Contracts and Payments,1
+5,Strategic Management,4
+5,International Finance,1
+5,International Business,4
+5,Entrepreneurship,5
+5,International Business Negotiation,4
+6,International Investment Analysis,3
+6,International Finance M&A and Investment Banking,3
+6,Financial Markets and Institutions,3
+6,International Marketing Management,4
+6,Consumer Behavior,2
+6,Brand Management,3
+6,Marketing Research Methods,2
+6,Chinese Business Environment,3
+6,Chinese Culture & Business Etiquette,4
+6,China Business Law,2
+6,Doing Business in China,4
+6,International Contracts and Payments,2
+6,Strategic Management,3
+6,International Finance,2
+6,International Business,4
+6,Entrepreneurship,4
+6,International Business Negotiation,4
+7,International Investment Analysis,
+7,International Finance M&A and Investment Banking,
+7,Financial Markets and Institutions,
+7,International Marketing Management,
+7,Consumer Behavior,
+7,Brand Management,5
+7,Marketing Research Methods,1
+7,Chinese Business Environment,5
+7,Chinese Culture & Business Etiquette,5
+7,China Business Law,
+7,Doing Business in China,4
+7,International Contracts and Payments,
+7,Strategic Management,2
+7,International Finance,
+7,International Business,5
+7,Entrepreneurship,
+7,International Business Negotiation,5
+8,International Investment Analysis,4
+8,International Finance M&A and Investment Banking,4
+8,Financial Markets and Institutions,3
+8,International Marketing Management,4
+8,Consumer Behavior,4
+8,Brand Management,4
+8,Marketing Research Methods,3
+8,Chinese Business Environment,3
+8,Chinese Culture & Business Etiquette,3
+8,China Business Law,
+8,Doing Business in China,3
+8,International Contracts and Payments,3
+8,Strategic Management,4
+8,International Finance,4
+8,International Business,4
+8,Entrepreneurship,4
+8,International Business Negotiation,4
+9,International Investment Analysis,5
+9,International Finance M&A and Investment Banking,5
+9,Financial Markets and Institutions,5
+9,International Marketing Management,5
+9,Consumer Behavior,4
+9,Brand Management,4
+9,Marketing Research Methods,5
+9,Chinese Business Environment,5
+9,Chinese Culture & Business Etiquette,5
+9,China Business Law,3
+9,Doing Business in China,4
+9,International Contracts and Payments,5
+9,Strategic Management,5
+9,International Finance,5
+9,International Business,5
+9,Entrepreneurship,4
+9,International Business Negotiation,5
+10,International Investment Analysis,
+10,International Finance M&A and Investment Banking,
+10,Financial Markets and Institutions,
+10,International Marketing Management,
+10,Consumer Behavior,3
+10,Brand Management,
+10,Marketing Research Methods,
+10,Chinese Business Environment,
+10,Chinese Culture & Business Etiquette,
+10,China Business Law,
+10,Doing Business in China,
+10,International Contracts and Payments,
+10,Strategic Management,3
+10,International Finance,
+10,International Business,4
+10,Entrepreneurship,
+10,International Business Negotiation,3
+11,International Investment Analysis,
+11,International Finance M&A and Investment Banking,
+11,Financial Markets and Institutions,
+11,International Marketing Management,
+11,Consumer Behavior,
+11,Brand Management,
+11,Marketing Research Methods,
+11,Chinese Business Environment,
+11,Chinese Culture & Business Etiquette,
+11,China Business Law,
+11,Doing Business in China,
+11,International Contracts and Payments,
+11,Strategic Management,
+11,International Finance,
+11,International Business,
+11,Entrepreneurship,
+11,International Business Negotiation,
+12,International Investment Analysis,5
+12,International Finance M&A and Investment Banking,4
+12,Financial Markets and Institutions,5
+12,International Marketing Management,5
+12,Consumer Behavior,4
+12,Brand Management,4
+12,Marketing Research Methods,5
+12,Chinese Business Environment,4
+12,Chinese Culture & Business Etiquette,4
+12,China Business Law,5
+12,Doing Business in China,5
+12,International Contracts and Payments,5
+12,Strategic Management,4
+12,International Finance,5
+12,International Business,5
+12,Entrepreneurship,4
+12,International Business Negotiation,5
+13,International Investment Analysis,3
+13,International Finance M&A and Investment Banking,4
+13,Financial Markets and Institutions,4
+13,International Marketing Management,3
+13,Consumer Behavior,4
+13,Brand Management,4
+13,Marketing Research Methods,3
+13,Chinese Business Environment,3
+13,Chinese Culture & Business Etiquette,3
+13,China Business Law,4
+13,Doing Business in China,3
+13,International Contracts and Payments,4
+13,Strategic Management,4
+13,International Finance,4
+13,International Business,3
+13,Entrepreneurship,3
+13,International Business Negotiation,4
+14,International Investment Analysis,4
+14,International Finance M&A and Investment Banking,4
+14,Financial Markets and Institutions,4
+14,International Marketing Management,4
+14,Consumer Behavior,5
+14,Brand Management,3
+14,Marketing Research Methods,5
+14,Chinese Business Environment,4
+14,Chinese Culture & Business Etiquette,4
+14,China Business Law,3
+14,Doing Business in China,5
+14,International Contracts and Payments,3
+14,Strategic Management,4
+14,International Finance,5
+14,International Business,5
+14,Entrepreneurship,5
+14,International Business Negotiation,4
+15,International Investment Analysis,5
+15,International Finance M&A and Investment Banking,5
+15,Financial Markets and Institutions,5
+15,International Marketing Management,5
+15,Consumer Behavior,5
+15,Brand Management,5
+15,Marketing Research Methods,5
+15,Chinese Business Environment,5
+15,Chinese Culture & Business Etiquette,5
+15,China Business Law,5
+15,Doing Business in China,5
+15,International Contracts and Payments,5
+15,Strategic Management,5
+15,International Finance,5
+15,International Business,5
+15,Entrepreneurship,5
+15,International Business Negotiation,5
+16,International Investment Analysis,3
+16,International Finance M&A and Investment Banking,3
+16,Financial Markets and Institutions,3
+16,International Marketing Management,3
+16,Consumer Behavior,3
+16,Brand Management,3
+16,Marketing Research Methods,3
+16,Chinese Business Environment,4
+16,Chinese Culture & Business Etiquette,4
+16,China Business Law,3
+16,Doing Business in China,3
+16,International Contracts and Payments,4
+16,Strategic Management,3
+16,International Finance,3
+16,International Business,3
+16,Entrepreneurship,4
+16,International Business Negotiation,3
+17,International Investment Analysis,4
+17,International Finance M&A and Investment Banking,4
+17,Financial Markets and Institutions,4
+17,International Marketing Management,4
+17,Consumer Behavior,4
+17,Brand Management,4
+17,Marketing Research Methods,4
+17,Chinese Business Environment,4
+17,Chinese Culture & Business Etiquette,4
+17,China Business Law,4
+17,Doing Business in China,4
+17,International Contracts and Payments,4
+17,Strategic Management,4
+17,International Finance,4
+17,International Business,4
+17,Entrepreneurship,4
+17,International Business Negotiation,4
+18,International Investment Analysis,5
+18,International Finance M&A and Investment Banking,4
+18,Financial Markets and Institutions,4
+18,International Marketing Management,4
+18,Consumer Behavior,4
+18,Brand Management,3
+18,Marketing Research Methods,5
+18,Chinese Business Environment,4
+18,Chinese Culture & Business Etiquette,4
+18,China Business Law,4
+18,Doing Business in China,4
+18,International Contracts and Payments,2
+18,Strategic Management,4
+18,International Finance,5
+18,International Business,4
+18,Entrepreneurship,4
+18,International Business Negotiation,4
+19,International Investment Analysis,3
+19,International Finance M&A and Investment Banking,3
+19,Financial Markets and Institutions,3
+19,International Marketing Management,3
+19,Consumer Behavior,3
+19,Brand Management,3
+19,Marketing Research Methods,3
+19,Chinese Business Environment,3
+19,Chinese Culture & Business Etiquette,3
+19,China Business Law,3
+19,Doing Business in China,4
+19,International Contracts and Payments,3
+19,Strategic Management,3
+19,International Finance,3
+19,International Business,3
+19,Entrepreneurship,3
+19,International Business Negotiation,3
+20,International Investment Analysis,3
+20,International Finance M&A and Investment Banking,3
+20,Financial Markets and Institutions,2
+20,International Marketing Management,2
+20,Consumer Behavior,2
+20,Brand Management,2
+20,Marketing Research Methods,2
+20,Chinese Business Environment,1
+20,Chinese Culture & Business Etiquette,1
+20,China Business Law,1
+20,Doing Business in China,1
+20,International Contracts and Payments,3
+20,Strategic Management,1
+20,International Finance,2
+20,International Business,1
+20,Entrepreneurship,1
+20,International Business Negotiation,1
+21,International Investment Analysis,3
+21,International Finance M&A and Investment Banking,3
+21,Financial Markets and Institutions,3
+21,International Marketing Management,4
+21,Consumer Behavior,3
+21,Brand Management,4
+21,Marketing Research Methods,3
+21,Chinese Business Environment,3
+21,Chinese Culture & Business Etiquette,4
+21,China Business Law,3
+21,Doing Business in China,3
+21,International Contracts and Payments,3
+21,Strategic Management,3
+21,International Finance,3
+21,International Business,4
+21,Entrepreneurship,3
+21,International Business Negotiation,3

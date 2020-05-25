@@ -1,0 +1,253 @@
+studentID,course,rating
+1,China Encounter with The West,3
+1,Public Communication and Critical Thinking,5
+1,European Integration- Interdisciplinary Perspectives,1
+1,Geopolitics and Global Changes,5
+1,Buddhism and Chinese Culture,1
+1,Classics of Chinese Thought,2
+1,Chinese Contemporary and modern literature,1
+1,China on the Screen,2
+1,The Chinese Economy,4
+1,The Political Economy of Chinese Reform,2
+1,Politics of Contemporary China,2
+1,Western Civilization with Chinese Comparisons,1
+2,China Encounter with The West,3
+2,Public Communication and Critical Thinking,5
+2,European Integration- Interdisciplinary Perspectives,1
+2,Geopolitics and Global Changes,5
+2,Buddhism and Chinese Culture,2
+2,Classics of Chinese Thought,1
+2,Chinese Contemporary and modern literature,2
+2,China on the Screen,2
+2,The Chinese Economy,1
+2,The Political Economy of Chinese Reform,3
+2,Politics of Contemporary China,2
+2,Western Civilization with Chinese Comparisons,2
+3,China Encounter with The West,4
+3,Public Communication and Critical Thinking,3
+3,European Integration- Interdisciplinary Perspectives,3
+3,Geopolitics and Global Changes,5
+3,Buddhism and Chinese Culture,5
+3,Classics of Chinese Thought,4
+3,Chinese Contemporary and modern literature,5
+3,China on the Screen,3
+3,The Chinese Economy,4
+3,The Political Economy of Chinese Reform,5
+3,Politics of Contemporary China,5
+3,Western Civilization with Chinese Comparisons,5
+4,China Encounter with The West,2
+4,Public Communication and Critical Thinking,5
+4,European Integration- Interdisciplinary Perspectives,2
+4,Geopolitics and Global Changes,5
+4,Buddhism and Chinese Culture,1
+4,Classics of Chinese Thought,2
+4,Chinese Contemporary and modern literature,1
+4,China on the Screen,1
+4,The Chinese Economy,5
+4,The Political Economy of Chinese Reform,3
+4,Politics of Contemporary China,3
+4,Western Civilization with Chinese Comparisons,4
+5,China Encounter with The West,5
+5,Public Communication and Critical Thinking,4
+5,European Integration- Interdisciplinary Perspectives,2
+5,Geopolitics and Global Changes,5
+5,Buddhism and Chinese Culture,5
+5,Classics of Chinese Thought,4
+5,Chinese Contemporary and modern literature,3
+5,China on the Screen,4
+5,The Chinese Economy,3
+5,The Political Economy of Chinese Reform,4
+5,Politics of Contemporary China,4
+5,Western Civilization with Chinese Comparisons,5
+6,China Encounter with The West,4
+6,Public Communication and Critical Thinking,5
+6,European Integration- Interdisciplinary Perspectives,3
+6,Geopolitics and Global Changes,5
+6,Buddhism and Chinese Culture,1
+6,Classics of Chinese Thought,1
+6,Chinese Contemporary and modern literature,1
+6,China on the Screen,1
+6,The Chinese Economy,1
+6,The Political Economy of Chinese Reform,3
+6,Politics of Contemporary China,4
+6,Western Civilization with Chinese Comparisons,5
+7,China Encounter with The West,5
+7,Public Communication and Critical Thinking,5
+7,European Integration- Interdisciplinary Perspectives,4
+7,Geopolitics and Global Changes,5
+7,Buddhism and Chinese Culture,3
+7,Classics of Chinese Thought,2
+7,Chinese Contemporary and modern literature,2
+7,China on the Screen,4
+7,The Chinese Economy,5
+7,The Political Economy of Chinese Reform,4
+7,Politics of Contemporary China,5
+7,Western Civilization with Chinese Comparisons,3
+8,China Encounter with The West,3
+8,Public Communication and Critical Thinking,4
+8,European Integration- Interdisciplinary Perspectives,5
+8,Geopolitics and Global Changes,5
+8,Buddhism and Chinese Culture,3
+8,Classics of Chinese Thought,3
+8,Chinese Contemporary and modern literature,3
+8,China on the Screen,3
+8,The Chinese Economy,3
+8,The Political Economy of Chinese Reform,4
+8,Politics of Contemporary China,3
+8,Western Civilization with Chinese Comparisons,4
+9,China Encounter with The West,5
+9,Public Communication and Critical Thinking,5
+9,European Integration- Interdisciplinary Perspectives,5
+9,Geopolitics and Global Changes,5
+9,Buddhism and Chinese Culture,3
+9,Classics of Chinese Thought,5
+9,Chinese Contemporary and modern literature,5
+9,China on the Screen,4
+9,The Chinese Economy,4
+9,The Political Economy of Chinese Reform,4
+9,Politics of Contemporary China,5
+9,Western Civilization with Chinese Comparisons,5
+10,China Encounter with The West,
+10,Public Communication and Critical Thinking,
+10,European Integration- Interdisciplinary Perspectives,
+10,Geopolitics and Global Changes,
+10,Buddhism and Chinese Culture,
+10,Classics of Chinese Thought,
+10,Chinese Contemporary and modern literature,
+10,China on the Screen,
+10,The Chinese Economy,
+10,The Political Economy of Chinese Reform,
+10,Politics of Contemporary China,
+10,Western Civilization with Chinese Comparisons,
+11,China Encounter with The West,
+11,Public Communication and Critical Thinking,
+11,European Integration- Interdisciplinary Perspectives,
+11,Geopolitics and Global Changes,
+11,Buddhism and Chinese Culture,
+11,Classics of Chinese Thought,
+11,Chinese Contemporary and modern literature,
+11,China on the Screen,
+11,The Chinese Economy,
+11,The Political Economy of Chinese Reform,
+11,Politics of Contemporary China,
+11,Western Civilization with Chinese Comparisons,
+12,China Encounter with The West,4
+12,Public Communication and Critical Thinking,4
+12,European Integration- Interdisciplinary Perspectives,3
+12,Geopolitics and Global Changes,3
+12,Buddhism and Chinese Culture,3
+12,Classics of Chinese Thought,3
+12,Chinese Contemporary and modern literature,3
+12,China on the Screen,4
+12,The Chinese Economy,4
+12,The Political Economy of Chinese Reform,4
+12,Politics of Contemporary China,4
+12,Western Civilization with Chinese Comparisons,4
+13,China Encounter with The West,3
+13,Public Communication and Critical Thinking,4
+13,European Integration- Interdisciplinary Perspectives,4
+13,Geopolitics and Global Changes,3
+13,Buddhism and Chinese Culture,4
+13,Classics of Chinese Thought,4
+13,Chinese Contemporary and modern literature,4
+13,China on the Screen,3
+13,The Chinese Economy,3
+13,The Political Economy of Chinese Reform,4
+13,Politics of Contemporary China,3
+13,Western Civilization with Chinese Comparisons,3
+14,China Encounter with The West,3
+14,Public Communication and Critical Thinking,4
+14,European Integration- Interdisciplinary Perspectives,3
+14,Geopolitics and Global Changes,4
+14,Buddhism and Chinese Culture,3
+14,Classics of Chinese Thought,3
+14,Chinese Contemporary and modern literature,3
+14,China on the Screen,3
+14,The Chinese Economy,4
+14,The Political Economy of Chinese Reform,4
+14,Politics of Contemporary China,3
+14,Western Civilization with Chinese Comparisons,3
+15,China Encounter with The West,5
+15,Public Communication and Critical Thinking,5
+15,European Integration- Interdisciplinary Perspectives,5
+15,Geopolitics and Global Changes,5
+15,Buddhism and Chinese Culture,5
+15,Classics of Chinese Thought,5
+15,Chinese Contemporary and modern literature,5
+15,China on the Screen,5
+15,The Chinese Economy,5
+15,The Political Economy of Chinese Reform,5
+15,Politics of Contemporary China,5
+15,Western Civilization with Chinese Comparisons,5
+16,China Encounter with The West,4
+16,Public Communication and Critical Thinking,4
+16,European Integration- Interdisciplinary Perspectives,4
+16,Geopolitics and Global Changes,4
+16,Buddhism and Chinese Culture,4
+16,Classics of Chinese Thought,4
+16,Chinese Contemporary and modern literature,4
+16,China on the Screen,3
+16,The Chinese Economy,4
+16,The Political Economy of Chinese Reform,4
+16,Politics of Contemporary China,3
+16,Western Civilization with Chinese Comparisons,4
+17,China Encounter with The West,4
+17,Public Communication and Critical Thinking,5
+17,European Integration- Interdisciplinary Perspectives,4
+17,Geopolitics and Global Changes,4
+17,Buddhism and Chinese Culture,4
+17,Classics of Chinese Thought,4
+17,Chinese Contemporary and modern literature,4
+17,China on the Screen,4
+17,The Chinese Economy,4
+17,The Political Economy of Chinese Reform,4
+17,Politics of Contemporary China,4
+17,Western Civilization with Chinese Comparisons,4
+18,China Encounter with The West,4
+18,Public Communication and Critical Thinking,4
+18,European Integration- Interdisciplinary Perspectives,4
+18,Geopolitics and Global Changes,4
+18,Buddhism and Chinese Culture,3
+18,Classics of Chinese Thought,4
+18,Chinese Contemporary and modern literature,3
+18,China on the Screen,3
+18,The Chinese Economy,4
+18,The Political Economy of Chinese Reform,4
+18,Politics of Contemporary China,4
+18,Western Civilization with Chinese Comparisons,3
+19,China Encounter with The West,3
+19,Public Communication and Critical Thinking,3
+19,European Integration- Interdisciplinary Perspectives,3
+19,Geopolitics and Global Changes,3
+19,Buddhism and Chinese Culture,3
+19,Classics of Chinese Thought,3
+19,Chinese Contemporary and modern literature,3
+19,China on the Screen,3
+19,The Chinese Economy,3
+19,The Political Economy of Chinese Reform,3
+19,Politics of Contemporary China,3
+19,Western Civilization with Chinese Comparisons,3
+20,China Encounter with The West,3
+20,Public Communication and Critical Thinking,1
+20,European Integration- Interdisciplinary Perspectives,3
+20,Geopolitics and Global Changes,3
+20,Buddhism and Chinese Culture,2
+20,Classics of Chinese Thought,1
+20,Chinese Contemporary and modern literature,2
+20,China on the Screen,2
+20,The Chinese Economy,1
+20,The Political Economy of Chinese Reform,3
+20,Politics of Contemporary China,2
+20,Western Civilization with Chinese Comparisons,2
+21,China Encounter with The West,4
+21,Public Communication and Critical Thinking,5
+21,European Integration- Interdisciplinary Perspectives,5
+21,Geopolitics and Global Changes,3
+21,Buddhism and Chinese Culture,5
+21,Classics of Chinese Thought,4
+21,Chinese Contemporary and modern literature,5
+21,China on the Screen,5
+21,The Chinese Economy,5
+21,The Political Economy of Chinese Reform,3
+21,Politics of Contemporary China,3
+21,Western Civilization with Chinese Comparisons,4
